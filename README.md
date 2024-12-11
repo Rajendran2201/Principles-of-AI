@@ -14,3 +14,6 @@ To explore the contents of this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/Rajendran2201/principles-of-ai.git
+```
+
+feel free to raise and issue and come up with solutions for them. Happy learning 😌
